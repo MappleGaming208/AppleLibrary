@@ -1,6 +1,6 @@
 -- vars
 -- changed from Color3.fromRGB(255, 255, 255) to Color3.fromRGB(19, 19, 19)
-
+-- text color tb changed eg searchtextbox.TextColor3 = Color3.fromRGB(95, 95, 95)
 local lib = {}
 local sections = {}
 local workareas = {}
