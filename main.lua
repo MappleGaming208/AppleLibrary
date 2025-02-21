@@ -851,7 +851,7 @@ function lib:init(ti, dosplash, visiblekey, deleteprevious)
             label.BorderSizePixel = 2
             label.Size = UDim2.new(0, 418, 0, 37)
             label.Font = Enum.Font.Gotham
-            label.TextColor3 = Color3.fromRGB(95, 95, 95)
+            label.TextColor3 = Color3.fromRGB(160, 160, 160)
             label.TextSize = 21
             label.TextWrapped = true
             label.Text = name
@@ -868,7 +868,7 @@ function lib:init(ti, dosplash, visiblekey, deleteprevious)
             toggleswitch.Size = UDim2.new(0, 418, 0, 37)
             toggleswitch.Font = Enum.Font.Gotham
             toggleswitch.Text = name
-            toggleswitch.TextColor3 = Color3.fromRGB(95, 95, 95)
+            toggleswitch.TextColor3 = Color3.fromRGB(160, 160, 160)
             toggleswitch.TextSize = 21
             toggleswitch.TextWrapped = true
             toggleswitch.TextXAlignment = Enum.TextXAlignment.Left
